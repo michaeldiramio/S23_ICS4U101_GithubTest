@@ -12,6 +12,7 @@ class Main {
 		animals.add(new Turtle());
 		animals.add(new Octopus());
     animals.add(new Crow());
+    animals.add(new Aardvark());
     animals.add(new Horse());
     animals.add(new Ostrich());
 
