@@ -19,8 +19,8 @@ class Main {
     animals.add(new Ostrich());
     animals.add(new Monkey());
 		animals.add(new Pikachu());
+		animals.add(new Dog());
     animals.add(new Cat());
-
 
 		for(int i = 0; i < animals.size(); i++) {
 			animals.get(i).makeNoise();
