@@ -18,6 +18,7 @@ class Main {
     animals.add(new Horse());
     animals.add(new Ostrich());
     animals.add(new Monkey());
+		animals.add(new Pikachu());
 
 
 		for(int i = 0; i < animals.size(); i++) {
